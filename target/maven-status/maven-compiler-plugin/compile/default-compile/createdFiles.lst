@@ -1,0 +1,7 @@
+gt\com\vqzmto\libreriajpa\gui\VentanaPrincipal.class
+gt\com\vqzmto\libreriajpa\entidades\Libro.class
+gt\com\vqzmto\libreriajpa\persistencia\JPAController.class
+gt\com\vqzmto\libreriajpa\entidades\Autor.class
+gt\com\vqzmto\libreriajpa\gui\VentanaPrincipal$1.class
+gt\com\vqzmto\libreriajpa\gui\VentanaPrincipal$2.class
+gt\com\vqzmto\libreriajpa\LibreriaJPA.class
